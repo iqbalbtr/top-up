@@ -1,0 +1,559 @@
+[
+    {
+        "id": 1,
+        "name": "Call of Duty Mobile",
+        "publisher": "Activision",
+        "slug": "call-of-duty-mobile",
+        "icon": "call-of-duty.webp",
+        "create_at": "",
+        "type": {
+            "name": "Top-Up Game",
+            "slug": "top-up-game"
+        },
+        "product_code": "CODM",
+        "uid": {
+            "id": true,
+            "server": false
+        },
+        "package_group": [
+            {
+                "name": "Paket standart",
+                "list": [
+                    {
+                        "name": "12 Diamonds",
+                        "price": 20000,
+                        "available": true,
+                        "code": "CODM12",
+                        "icon": "cp.webp"
+                    },
+                    {
+                        "name": "24 Diamonds",
+                        "price": 40000,
+                        "available": true,
+                        "code": "CODM24",
+                        "icon": "cp.webp"
+                    },
+                    {
+                        "name": "50 Diamonds",
+                        "price": 80000,
+                        "available": true,
+                        "code": "CODM50",
+                        "icon": "cp.webp"
+                    }
+                ]
+            },
+            {
+                "name": "Paket premium",
+                "list": [
+                    {
+                        "name": "100 Diamonds",
+                        "price": 150000,
+                        "available": true,
+                        "code": "CODM100",
+                        "icon": "cp.webp"
+                    },
+                    {
+                        "name": "200 Diamonds",
+                        "price": 280000,
+                        "available": false,
+                        "code": "CODM200",
+                        "icon": "cp.webp"
+                    },
+                    {
+                        "name": "500 Diamonds",
+                        "price": 700000,
+                        "available": true,
+                        "code": "CODM500",
+                        "icon": "cp.webp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "PUBG Mobile",
+        "publisher": "Tencent Games",
+        "slug": "pubg-mobile",
+        "icon": "pubg.webp",
+        "create_at": "",
+        "type": {
+            "name": "Top-Up Game",
+            "slug": "top-up-game"
+        },
+        "product_code": "PUBG",
+        "uid": {
+            "id": true,
+            "server": true
+        },
+        "package_group": [
+            {
+                "name": "Paket standart",
+                "list": [
+                    {
+                        "name": "60 UC",
+                        "price": 15000,
+                        "available": true,
+                        "code": "PUBG60",
+                        "icon": "dm.webp"
+                    },
+                    {
+                        "name": "180 UC",
+                        "price": 45000,
+                        "available": true,
+                        "code": "PUBG180",
+                        "icon": "dm.webp"
+                    }
+                ]
+            },
+            {
+                "name": "Paket premium",
+                "list": [
+                    {
+                        "name": "600 UC",
+                        "price": 150000,
+                        "available": true,
+                        "code": "PUBG600",
+                        "icon": "dm.webp"
+                    },
+                    {
+                        "name": "1200 UC",
+                        "price": 290000,
+                        "available": false,
+                        "code": "PUBG1200",
+                        "icon": "dm.webp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Free Fire",
+        "publisher": "Garena",
+        "slug": "free-fire",
+        "icon": "free-fire.webp",
+        "create_at": "",
+        "type": {
+            "name": "Top-Up Game",
+            "slug": "top-up-game"
+        },
+        "product_code": "FF",
+        "uid": {
+            "id": true,
+            "server": false
+        },
+        "package_group": [
+            {
+                "name": "Paket standart",
+                "list": [
+                    {
+                        "name": "50 Diamonds",
+                        "price": 10000,
+                        "available": true,
+                        "code": "FF50",
+                        "icon": "dm.webp"
+                    },
+                    {
+                        "name": "100 Diamonds",
+                        "price": 20000,
+                        "available": true,
+                        "code": "FF100",
+                        "icon": "dm.webp"
+                    }
+                ]
+            },
+            {
+                "name": "Paket premium",
+                "list": [
+                    {
+                        "name": "500 Diamonds",
+                        "price": 100000,
+                        "available": true,
+                        "code": "FF500",
+                        "icon": "dm.webp"
+                    },
+                    {
+                        "name": "1000 Diamonds",
+                        "price": 190000,
+                        "available": false,
+                        "code": "FF1000",
+                        "icon": "dm.webp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Genshin Impact",
+        "publisher": "miHoYo",
+        "slug": "genshin-impact",
+        "icon": "genshin.webp",
+        "create_at": "",
+        "type": {
+            "name": "Top-Up Game",
+            "slug": "top-up-game"
+        },
+        "product_code": "GI",
+        "uid": {
+            "id": true,
+            "server": false
+        },
+        "package_group": [
+            {
+                "name": "Paket standart",
+                "list": [
+                    {
+                        "name": "60 Primogems",
+                        "price": 15000,
+                        "available": true,
+                        "code": "GI60",
+                        "icon": "primogen.webp"
+                    },
+                    {
+                        "name": "300 Primogems",
+                        "price": 75000,
+                        "available": true,
+                        "code": "GI300",
+                        "icon": "primogen.webp"
+                    }
+                ]
+            },
+            {
+                "name": "Paket premium",
+                "list": [
+                    {
+                        "name": "1000 Primogems",
+                        "price": 200000,
+                        "available": true,
+                        "code": "GI1000",
+                        "icon": "primogen.webp"
+                    },
+                    {
+                        "name": "2000 Primogems",
+                        "price": 380000,
+                        "available": false,
+                        "code": "GI2000",
+                        "icon": "primogen.webp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Steam Voucher",
+        "publisher": "Valve",
+        "slug": "steam-wallet",
+        "icon": "steam.webp",
+        "create_at": "",
+        "type": {
+            "name": "Voucher",
+            "slug": "voucher"
+        },
+        "product_code": "STEAM",
+        "uid": {
+            "id": false,
+            "server": false
+        },
+        "package_group": [
+            {
+                "name": "Voucher Steam",
+                "list": [
+                    {
+                        "name": "Rp 12,000",
+                        "price": 12000,
+                        "available": true,
+                        "code": "STEAM12K",
+                        "icon": ""
+                    },
+                    {
+                        "name": "Rp 50,000",
+                        "price": 50000,
+                        "available": true,
+                        "code": "STEAM50K",
+                        "icon": ""
+                    },
+                    {
+                        "name": "Rp 100,000",
+                        "price": 100000,
+                        "available": true,
+                        "code": "STEAM100K",
+                        "icon": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Google Play Voucher",
+        "publisher": "Google",
+        "slug": "google-play",
+        "icon": "google-play.webp",
+        "create_at": "",
+        "type": {
+            "name": "Voucher",
+            "slug": "voucher"
+        },
+        "product_code": "GP",
+        "uid": {
+            "id": false,
+            "server": false
+        },
+        "package_group": [
+            {
+                "name": "Voucher Google Play",
+                "list": [
+                    {
+                        "name": "Rp 20,000",
+                        "price": 20000,
+                        "available": true,
+                        "code": "GP20K",
+                        "icon": ""
+                    },
+                    {
+                        "name": "Rp 50,000",
+                        "price": 50000,
+                        "available": true,
+                        "code": "GP50K",
+                        "icon": ""
+                    },
+                    {
+                        "name": "Rp 100,000",
+                        "price": 100000,
+                        "available": true,
+                        "code": "GP100K",
+                        "icon": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Netflix Subscription",
+        "publisher": "Netflix",
+        "slug": "netflix",
+        "icon": "netflix.webp",
+        "create_at": "",
+        "type": {
+            "name": "Voucher",
+            "slug": "voucher"
+        },
+        "product_code": "NETFLIX",
+        "uid": {
+            "id": false,
+            "server": false
+        },
+        "package_group": [
+            {
+                "name": "Paket Netflix",
+                "list": [
+                    {
+                        "name": "1 Bulan Basic",
+                        "price": 120000,
+                        "available": true,
+                        "code": "NETFLIXBASIC",
+                        "icon": ""
+                    },
+                    {
+                        "name": "1 Bulan Standard",
+                        "price": 150000,
+                        "available": true,
+                        "code": "NETFLIXSTANDARD",
+                        "icon": ""
+                    },
+                    {
+                        "name": "1 Bulan Premium",
+                        "price": 190000,
+                        "available": true,
+                        "code": "NETFLIXPREMIUM",
+                        "icon": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Pulsa Telkomsel",
+        "publisher": "Telkomsel",
+        "slug": "telkomsel-pulsa",
+        "icon": "telkom.webp",
+        "create_at": "",
+        "type": {
+            "name": "Pulsa",
+            "slug": "pulsa"
+        },
+        "product_code": "TSEL",
+        "uid": {
+            "id": true,
+            "server": false
+        },
+        "package_group": [
+            {
+                "name": "Pulsa Telkomsel",
+                "list": [
+                    {
+                        "name": "Pulsa Rp 10,000",
+                        "price": 10000,
+                        "available": true,
+                        "code": "TSEL10K",
+                        "icon": ""
+                    },
+                    {
+                        "name": "Pulsa Rp 50,000",
+                        "price": 50000,
+                        "available": true,
+                        "code": "TSEL50K",
+                        "icon": ""
+                    },
+                    {
+                        "name": "Pulsa Rp 100,000",
+                        "price": 100000,
+                        "available": true,
+                        "code": "TSEL100K",
+                        "icon": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Data Telkomsel",
+        "publisher": "Telkomsel",
+        "slug": "data-telkomsel",
+        "icon": "telkom.webp",
+        "create_at": "",
+        "type": {
+            "name": "Data",
+            "slug": "data"
+        },
+        "product_code": "TSEL",
+        "uid": {
+            "id": true,
+            "server": false
+        },
+        "package_group": [
+            {
+                "name": "Paket Data Telkomsel",
+                "list": [
+                    {
+                        "name": "1GB Data",
+                        "price": 15000,
+                        "available": true,
+                        "code": "TSEL1GB",
+                        "icon": ""
+                    },
+                    {
+                        "name": "5GB Data",
+                        "price": 60000,
+                        "available": true,
+                        "code": "TSEL5GB",
+                        "icon": ""
+                    },
+                    {
+                        "name": "10GB Data",
+                        "price": 100000,
+                        "available": true,
+                        "code": "TSEL10GB",
+                        "icon": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Pulsa Axis",
+        "publisher": "Axis",
+        "slug": "axis-pulsa",
+        "icon": "axis.webp",
+        "create_at": "",
+        "type": {
+            "name": "Pulsa",
+            "slug": "pulsa"
+        },
+        "product_code": "AXIS",
+        "uid": {
+            "id": true,
+            "server": false
+        },
+        "package_group": [
+            {
+                "name": "Pulsa Axis",
+                "list": [
+                    {
+                        "name": "Pulsa Rp 10,000",
+                        "price": 10000,
+                        "available": true,
+                        "code": "AXIS10K",
+                        "icon": ""
+                    },
+                    {
+                        "name": "Pulsa Rp 50,000",
+                        "price": 50000,
+                        "available": true,
+                        "code": "AXIS50K",
+                        "icon": ""
+                    },
+                    {
+                        "name": "Pulsa Rp 100,000",
+                        "price": 100000,
+                        "available": true,
+                        "code": "AXIS100K",
+                        "icon": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Data Smartfren",
+        "publisher": "Smartfren",
+        "slug": "smartfren-data",
+        "icon": "smartfren.webp",
+        "create_at": "",
+        "type": {
+            "name": "Data",
+            "slug": "data"
+        },
+        "product_code": "AXIS",
+        "uid": {
+            "id": true,
+            "server": false
+        },
+        "package_group": [
+            {
+                "name": "Paket Data Smartfren",
+                "list": [
+                    {
+                        "name": "1GB Data",
+                        "price": 15000,
+                        "available": true,
+                        "code": "AXIS1GB",
+                        "icon": ""
+                    },
+                    {
+                        "name": "5GB Data",
+                        "price": 60000,
+                        "available": true,
+                        "code": "AXIS5GB",
+                        "icon": ""
+                    },
+                    {
+                        "name": "10GB Data",
+                        "price": 100000,
+                        "available": true,
+                        "code": "AXIS10GB",
+                        "icon": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

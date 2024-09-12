@@ -1,0 +1,90 @@
+{
+    "en": {
+        "home": {
+            "section_1": [
+                "Recomendations",
+                "Here are some products that we recommend for you."
+            ],
+            "section_2": [
+                "Popular Now",
+                "Here are some products that we recommend for you."
+            ],
+            "section_3": [
+                "Popular sekarang", 
+                "Here are some products that we recommend for you."
+            ]
+        },
+        "product": {
+            "section_1": [
+                "Fast Process",
+                "Fast Process",
+                "Fast Process"
+            ],
+            "section_2": [
+                "Enter account data",
+                "Select nominal",
+                "Purchase Amount",
+                "Payment Method",
+                "Contact Details"
+            ]
+        },
+        "payment": {
+            "section_1": [
+                "Thank you",
+                "Please complete payment",
+                "Your order is waiting for payment before being sent.",
+                "This order will expire on"
+            ],
+            "section_2": [
+                "Payment Method",
+                "Invoice Number",
+                "Transaction Status",
+                "Payment Status"
+            ]
+        }
+    },
+    "id": {
+        "home": {
+            "section_1": [
+                "Rekomendasi",
+                "Berikut beberapa produk yang kami rekomendasikan untuk Anda."
+            ],
+            "section_2": [
+                "Populer Sekarang",
+                "Berikut beberapa produk yang kami rekomendasikan untuk Anda."
+            ],
+            "section_3": [
+                "Populer Sekarang",
+                "Berikut beberapa produk yang kami rekomendasikan untuk Anda."
+            ]
+        },
+        "product": {
+            "section_1": [
+                "Proses Cepat",
+                "Proses Cepat",
+                "Proses Cepat"
+            ],
+            "section_2": [
+                "Masukkan data akun",
+                "Pilih nominal",
+                "Jumlah Pembelian",
+                "Metode Pembayaran",
+                "Detail Kontak"
+            ]
+        },
+        "payment": {
+            "section_1": [
+                "Terima Kasih",
+                "Silakan selesaikan pembayaran",
+                "Pesanan Anda menunggu pembayaran sebelum dikirim.",
+                "Pesanan ini akan kedaluwarsa pada"
+            ],
+            "section_2": [
+                "Metode Pembayaran",
+                "Nomor Faktur",
+                "Status Transaksi",
+                "Status Pembayaran"
+            ]
+        }
+    }
+}

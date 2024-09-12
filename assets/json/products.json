@@ -1,0 +1,133 @@
+[
+    {
+      "id": 1,
+      "name": "Call of Duty Mobile",
+      "publisher": "Activision",
+      "slug": "call-of-duty-mobile",
+      "icon": "call-of-duty.webp",
+      "create_at": "",
+      "type": {
+        "name": "Top-Up Game",
+        "slug": "top-up-game"
+      },
+      "product_code": "CODM"
+    },
+    {
+      "id": 2,
+      "name": "PUBG Mobile",
+      "publisher": "Tencent Games",
+      "slug": "pubg-mobile",
+      "icon": "pubg.webp",
+      "create_at": "",
+      "type": {
+        "name": "Top-Up Game",
+        "slug": "top-up-game"
+      },
+      "product_code": "PUBG"
+    },
+    {
+      "id": 3,
+      "name": "Free Fire",
+      "publisher": "Garena",
+      "slug": "free-fire",
+      "icon": "free-fire.webp",
+      "create_at": "",
+      "type": {
+        "name": "Top-Up Game",
+        "slug": "top-up-game"
+      },
+      "product_code": "FF"
+    },
+    {
+      "id": 4,
+      "name": "Genshin Impact",
+      "publisher": "miHoYo",
+      "slug": "genshin-impact",
+      "icon": "genshin.webp",
+      "create_at": "",
+      "type": {
+        "name": "Top-Up Game",
+        "slug": "top-up-game"
+      },
+      "product_code": "GI"
+    },
+    {
+      "id": 5,
+      "name": "Steam Wallet",
+      "publisher": "Valve Corporation",
+      "slug": "steam-wallet",
+      "icon": "steam.webp",
+      "create_at": "",
+      "type": {
+        "name": "Voucher",
+        "slug": "voucher"
+      },
+      "product_code": "STEAM"
+    },
+    {
+      "id": 6,
+      "name": "Google Play Gift Card",
+      "publisher": "Google",
+      "slug": "google-play",
+      "icon": "google-play.webp",
+      "create_at": "",
+      "type": {
+        "name": "Voucher",
+        "slug": "voucher"
+      },
+      "product_code": "GP"
+    },
+    {
+      "id": 7,
+      "name": "Netflix Gift Card",
+      "publisher": "Netflix",
+      "slug": "netflix",
+      "icon": "netflix.webp",
+      "create_at": "",
+      "type": {
+        "name": "Voucher",
+        "slug": "voucher"
+      },
+      "product_code": "NETFLIX"
+    },
+    {
+      "id": 8,
+      "name": "Telkomsel Pulsa",
+      "publisher": "Telkomsel",
+      "slug": "telkomsel-pulsa",
+      "icon": "telkom.webp",
+      "create_at": "",
+      "type": {
+        "name": "Pulsa & Data",
+        "slug": "pulsa-data"
+      },
+      "product_code": "TELKOMSEL"
+    },
+    {
+      "id": 9,
+      "name": "Axis Pulsa",
+      "publisher": "Axis",
+      "slug": "axis-pulsa",
+      "icon": "axis.webp",
+      "create_at": "",
+      "type": {
+        "name": "Pulsa & Data",
+        "slug": "pulsa-data"
+      },
+      "product_code": "AXIS"
+    },
+    {
+      "id": 10,
+      "name": "Smartfren Data",
+      "publisher": "Smartfren",
+      "slug": "smartfren-data",
+      "icon": "smartfren.webp",
+      "create_at": "",
+      "type": {
+        "name": "Pulsa & Data",
+        "slug": "pulsa-data"
+      },
+      "product_code": "SMARTFREN"
+    }
+  ]
+  
