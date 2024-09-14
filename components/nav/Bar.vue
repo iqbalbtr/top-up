@@ -79,8 +79,8 @@ const { setLang } = usePreference()
 
             <div v-show="isLang"
                 class="absolute overflow-hidden animate-accordion-down top-full border-2 border-secondary right-0 bg-black/50 backdrop-blur-sm mt-2 rounded-md items-start flex flex-col">
-                <button @click="() => setLang('id')" class="px-6 hover:bg-accent/30 w-full py-2">Indonesia</button>
-                <button @click="() => setLang('en')" class="px-6 hover:bg-accent/30 w-full py-2">English</button>
+                <button @click="() => setLang('id')" class="px-6  text-left active:bg-accent hover:bg-accent/30 w-full py-2">Indonesia</button>
+                <button @click="() => setLang('en')" class="px-6  text-left  active:bg-accent hover:bg-accent/30 w-full py-2">English</button>
             </div>
         </div>
     </nav>

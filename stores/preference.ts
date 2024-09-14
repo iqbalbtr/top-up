@@ -7,12 +7,12 @@ export const usePreference = defineStore("preference", {
     }),
     getters: {
         localizedData(state) {
-            return state.data[state.lang]; // getter tergantung pada lang
+            return state.data[state.lang];
         }
     },
     actions: {
         setLang(req: "id" | "en") {
-            this.lang = req; // mengubah nilai lang
+            this.lang = req;
         }
     }
 });
